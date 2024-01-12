@@ -3,7 +3,6 @@ print("")
 print("Sobre qual assunto deseja falar? \n [1] Acesso às informações acadêmicas \n [2] Solicitação de documentos \n [3] Atualização de informações \n [4] Envio de feedback")
 
 resposta = int(input("Digite o número que deseja obter inforações: "))
-print("")
 
 if resposta == 1:
 	print("Resposta 1")
